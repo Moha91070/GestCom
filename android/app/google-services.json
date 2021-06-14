@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "939043377938",
+        "project_id": "gestcom-1e4d6",
+        "storage_bucket": "gestcom-1e4d6.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:939043377938:android:7ace33c157258cd52a59cb",
+            "android_client_info": {
+                "package_name": "com.ppe4.gestcom"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "939043377938-a2c1k49n8shncgmife4bno1sqvs4i9hq.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyDmUlPjXkSLc6D0u6E8hs3A3KZwNRoyOas"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "939043377938-a2c1k49n8shncgmife4bno1sqvs4i9hq.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
